@@ -1,0 +1,7 @@
+Create a simple education management website.
+Features:
+- Student list
+- Parent info
+- Revenue tracking
+Use HTML, CSS, JavaScript.
+Modern UI, responsive.
